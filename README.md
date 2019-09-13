@@ -1,10 +1,9 @@
-# Bitcoin Original Code
 Let us not forget our roots, Bitcion v0.1.0. Pure code as close to Satoshi as you can get.
 We have this pinned to our organization to remind everyone where we came from, so that we
 can better see where we are going.
 
-
-# Satoshi's First Message
+Announcement
+-----
 Announcing the first release of Bitcoin, a new electronic cash
 system that uses a peer-to-peer network to prevent double-spending.
 It's completely decentralized with no server or central authority.
@@ -65,17 +64,6 @@ needed. It's based on open market competition, and there will
 probably always be nodes willing to process transactions for free.
 
 Satoshi Nakamoto
-
-
-#Release Information
-BitCoin v0.01 ALPHA
-
-Copyright (c) 2009 Satoshi Nakamoto
-Distributed under the MIT/X11 software license, see the accompanying
-file license.txt or http://www.opensource.org/licenses/mit-license.php.
-This product includes software developed by the OpenSSL Project for use in
-the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
-cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 
 Intro
